@@ -8,6 +8,7 @@
 <body>
     <h2> php with two parameter</h2>
     <?php
+    /* Defining Use Paramater*/
         function addFunction($num1, $num2) {
             $sum = $num1 +$num2;
             echo "sum of the two number : $sum";
