@@ -6,6 +6,7 @@
     <title>Passing Arugment by Referrence</title>
 </head>
 <body>
+    /* Defining */
     <?php
         function addFive($num){
             $num += 5;
@@ -14,7 +15,7 @@
         function addSix(&$num){
             $num += 6;
         }
-
+/* Referrence */
         $orignum =10;
         addFive($orignum);
 

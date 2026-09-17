@@ -6,6 +6,7 @@
     <title>Writing PhP Function which return value</title>
 </head>
 <body>
+    /* Defining */
     <?php
         function addFunction($num1, $num2){
             $sum = $num1 + $num2;
