@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Writing PhP Function which returns value</title>
 </head>
 <body>
     <?php
@@ -12,6 +12,10 @@
     }
 
     printMe("this is test");
+    printMe();
+    printMe("<br /> this is test");
+    printMe();
+    printMe();
     printMe();
     ?>
 </body>
