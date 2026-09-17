@@ -13,7 +13,7 @@
             $sum = $num1 +$num2;
             echo "sum of the two number : $sum";
         }
-
+/* Call function and Value num1 and num2 */
         addFunction(10,30);
     ?>
 </body>
