@@ -12,7 +12,9 @@
         }
 
         var_dump(test(120,1));
+        echo "<br />";
         var_dump(test(-1,120));
+        echo "<br />";
         var_dump(test(2,120));
     ?>
 </body>
